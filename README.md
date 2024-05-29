@@ -52,7 +52,7 @@ La empresa requiere un sistema de recordatorio personalizado para sus empleados,
 
 ## Categoria
 
-| Id  | Nombre            | Descripcion         | User_Id |
+| Id  | Nombre            | Descripción         | User_Id |
 | --- | ----------------- | ------------------- | ------- |
 | 01  | Universidad       | Ir a la Universidad | 03      |
 | 02  | Pastas            | Ir por las pastas   | 01      |
